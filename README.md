@@ -1,4 +1,4 @@
-[![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2021/05/anim-gif-01.gif)](https://souvik3000.herokuapp.com/)
+[![MasterHead](https://www.syncfusion.com/blogs/wp-content/uploads/2020/07/Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1.jpg)](https://souvik3000.herokuapp.com/)
 
 <h1 align="center">Hi 👋, I'm Souvik Roy</h1>
 <h3 align="center">A passionate frontend developer</h3>
