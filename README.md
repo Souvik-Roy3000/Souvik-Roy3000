@@ -7,11 +7,11 @@
 
 
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m a Java Fullstack Developer
 
 - 👨‍💻 All of my projects are available at [https://souvik3000.herokuapp.com/](https://souvik3000.herokuapp.com/)
 
-- 💬 Ask me about **React, Node, Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript, BOOTSTRAP, REACT**
 
 - 📫 How to reach me **roysouvik5054@gmail.com**
 
